@@ -10,6 +10,11 @@
 [9.3](https://terakoya.sejuku.net/programs/76/chapters/907#9.3-if%E6%96%87%E3%81%AE%E6%9B%B8%E3%81%8D%E6%96%B9)
 実際にコードを書いた際の返り値がなぜtrueになるかわからない
 
+## 10章for文
+- 10.6break文
+[10.6](https://terakoya.sejuku.net/programs/76/chapters/909#10.6-break%E6%96%87)
+最初に記述されているphpの例のカウンタ変数$iの値が5であれば、break文で繰り返し処理を強制終了するという部分が分からない
+
 # エラーの内容覚えておこう
 ## シンタックスエラー
 - Parse error =PHPにおけるシンタックスエラー。予期しないechoがあるといった内容

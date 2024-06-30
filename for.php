@@ -32,6 +32,8 @@
   <p>
     <?php
     for ($i = 1; $i <= 10; $i++) { 
+      echo '<span style="color:#ff0000;">'. $i . '</span><br>'."\n";
+      
       // カウンタ変数の$iの値が奇数（2で割った余りが1）であれば、値を出力せずにcontinue文で次のループに進む
       if ($i % 2 === 1) {
         continue;

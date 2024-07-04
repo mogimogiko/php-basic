@@ -15,6 +15,14 @@
 [10.6](https://terakoya.sejuku.net/programs/76/chapters/909#10.6-break%E6%96%87)
 最初に記述されているphpの例のカウンタ変数$iの値が5であれば、break文で繰り返し処理を強制終了するという部分が分からない
 
+## 14章関数の引数
+[14.3](https://terakoya.sejuku.net/programs/76/chapters/913#14.3-%E5%BC%95%E6%95%B0%E3%81%A8%E3%81%AF)
+- $totalと$priceがどこで使われているかわからない
+- 複数の引数を出すという部分のコードの記述がわからない
+
+### 14.4
+- TRUEFALSEの例のコード記述の意味がわからない
+
 # エラーの内容覚えておこう
 ## シンタックスエラー
 - Parse error =PHPにおけるシンタックスエラー。予期しないechoがあるといった内容

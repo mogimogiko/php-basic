@@ -28,7 +28,7 @@
 - 全体的に何が何を示しているのかわからない
 
 ## 19.4 正規表現を理解しよう（２）
-[](https://terakoya.sejuku.net/programs/76/chapters/918#19.4-preg_replace()%EF%BC%9A%E4%B8%80%E8%87%B4%E3%81%97%E3%81%9F%E6%96%87%E5%AD%97%E5%88%97%E3%82%92%E4%BB%96%E3%81%AE%E6%96%87%E5%AD%97%E5%88%97%E3%81%AB%E7%BD%AE%E6%8F%9B%E3%81%99%E3%82%8B)
+[19.4](https://terakoya.sejuku.net/programs/76/chapters/918#19.4-preg_replace()%EF%BC%9A%E4%B8%80%E8%87%B4%E3%81%97%E3%81%9F%E6%96%87%E5%AD%97%E5%88%97%E3%82%92%E4%BB%96%E3%81%AE%E6%96%87%E5%AD%97%E5%88%97%E3%81%AB%E7%BD%AE%E6%8F%9B%E3%81%99%E3%82%8B)
 
 - 説明がよくわからなかった
 

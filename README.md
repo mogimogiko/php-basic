@@ -32,6 +32,9 @@
 
 - 説明がよくわからなかった
 
+## 22.4エラー
+[22.4](https://terakoya.sejuku.net/programs/76/chapters/1969#22.4-%E3%82%A8%E3%83%A9%E3%83%BC%E3%83%AD%E3%82%B0%E3%81%AE%E5%87%BA%E5%8A%9B)
+- 
 # エラーの内容覚えておこう
 ## シンタックスエラー
 - Parse error =PHPにおけるシンタックスエラー。予期しないechoがあるといった内容

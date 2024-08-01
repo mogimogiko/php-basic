@@ -5,7 +5,7 @@
   <title>PHP基礎編</title>
 </head>
 <body>
-  <butoon id="refresh-btn">更新</butoon>
+  <button id="refresh-btn">更新</button>
   <div id="outputDiv">SAMURAI</div>
 
   <script>
@@ -24,7 +24,7 @@
       fetch('ajax_server.php', {
         method: 'POST',
         headers: {'Content-Type': 'application/json'},
-        body: JSON.stringify(disData) // JSON形式に変換
+        body: JSON.stringify(dispData) // JSON形式に変換
       })
       // サーバー側からAjaxレスポンスを受け取った時の処理
       .then((response) => response.json()) // JSON形式に変換
@@ -39,15 +39,15 @@
       // 定期実行中（IDが0でない）なら停止
       if (intervalId) {
         // 定期実行を停止
-        clearInterval(intervalId)
+        clearInterval(intervalId);
         intervalId = 0;
         refreshBtn.textContent = '更新'; // ボタン表示切替
       } else {
         // １秒ごとの定期実行を開始し、そのIDを記録
         intervalId = setInterval(fetchFromServer, 1000);
-        refreshBtn.textContent = '停止';
+        refreshBtn.textContent = '停止'; // ボタン表示切替
       }
-    })
+    });
   </script>
 </body>
 </html>
